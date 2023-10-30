@@ -23,7 +23,7 @@
 | №    | Verbindlichkeit | Typ  | Beschreibung |
 | ---- | --------------- | ---- | ------------ |
 | 1    |  Muss               |  Funktional    |   Die Anwendung soll in der Lage sein, den Marchzins zu berechnen. Dies erfordert die Eingabe des Kauf- und Verkaufsdatums, des Kapitals und des Zinssatzes, die vom Benutzer erfragt werden.           |
-| ...  | Muss                |      |              |
+| ...  | Muss                |  Funktional    |   Das Programm soll in der Lage sein, Daten zur Entwicklung des Obligationenkurses über den Anlagezeitraum aus dem Internet zu beziehen. Wir müssen einen geeigneten Dienst auswählen und diesen über unser Programm ansprechen.           |
 
 <span style="background: azure">Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand).</span>
 
