@@ -4,7 +4,7 @@
 
 <span style="background: azure">Stellen, an welchen Sie etwas ausfüllen müssen, beginnen mit ✍️. Wenn Sie die nötige Information eingetragen haben, können Sie ✍️ entfernen.</span>
 
-✍️ Ihr Nachname; bei Gruppenarbeiten Ihr Gruppenname und Ihre Nachnamen
+Erjon Hulaj, Avenazer Melles, Seyon Demiroglu
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -16,7 +16,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ In unserem Projekt entwickeln wir eine Anwendung zur Berechnung von unterjährigen Marchzins für Obligationen, bei der Benutzer Kauf- und Verkaufsdatum, Zinssatz und Kapital eingeben können, während unser Schwerpunkt auf präziser Zinsberechnung und der Integration von Internetinformationen liegt.
+In unserem Projekt entwickeln wir eine Anwendung zur Berechnung von unterjährigen Marchzins für Obligationen, bei der Benutzer Kauf- und Verkaufsdatum, Zinssatz und Kapital eingeben können, während unser Schwerpunkt auf präziser Zinsberechnung und der Integration von Internetinformationen liegt.
 
 ### 1.2 Anforderungen
 
