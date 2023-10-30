@@ -49,10 +49,21 @@ In unserem Projekt entwickeln wir eine Anwendung zur Berechnung von unterjährig
 
 | AP-№ | Frist | Zuständig | Beschreibung |
 | ---- | ----- | --------- | ------------ |
-| 1.A  |       |           |              |
+| 1.A  | 03.11.23      | Erjon Hulaj          | Anforderung 1: Erstellung der Benutzeroberfläche für die Eingabe von Kauf- und Verkaufsdatum, Kapital und Zinssatz, Dokumentation des Designs.             |
+| 1.B  | 06.11.23      | Avenazer Melles          | Anforderung 1: Implementierung der Marchzins-Berechnung basierend auf den Benutzereingaben, Durchführung von Tests.             |
+| 1.C  | 10.11.23      | Seyon Demiroglu          | Anforderung 1: Überprüfung und Validierung der Eingabedaten, um sicherzustellen, dass sie den Anforderungen entsprechen, Dokumentation der Validierung.             |
+| 2.A  | 13.11.23	      | Erjon Hulaj         | Anforderung 2: Recherche und Auswahl eines geeigneten Internetdienstes zur Kursdatenabfrage, Dokumentation der Auswahl.             |
+| 2.B  | 17.11.23      | Avenazer Melles          | Anforderung 2: Implementierung der Datenabruf-Funktionalität und Speicherung in einer Datei, Durchführung von Tests.             |
+| 2.C  | 20.11.23      | Seyon Demiroglu          | Anforderung 2: Fehlerbehandlung und Benutzerhinweise für den Internetdatenabruf, Dokumentation der Fehlerbehandlung.             |
+| 3.A  | 24.11.23      | Erjon Hulaj          | Anforderung 3: Implementierung der Anzeige von zuvor gespeicherten Kursdaten aus der Datei, Durchführung von Tests.             |
+| 3.B  | 24.11.23      | Avenazer Melles          | Anforderung 3: Benutzerfreundliche Präsentation der gespeicherten Kursdaten in der Anwendung, Dokumentation der Benutzeroberfläche.             |
+| 3.C  | 27.11.23      | Seyon Demiroglu          | Anforderung 3: Tests und Validierung der gespeicherten Datenwiedergabe, Dokumentation der Testergebnisse.             |
+| 4.A  | 27.11.23      | Erjon Hulaj          | Anforderung 4: Überarbeitung der Benutzeroberfläche, um sie benutzerfreundlicher und ansprechender zu gestalten, Dokumentation der Überarbeitung.             |
+| 4.B  | 01.12.23      | Avenazer Melles          | Anforderung 4: Implementierung von Verbesserungen in der Benutzeroberfläche basierend auf den Benutzeranforderungen, Durchführung von Tests.             |
+| 4.C  | 01.12.23      | Seyon Demiroglu          | Anforderung 4: Durchführung von Benutzertests und Anpassungen an der Benutzeroberfläche, Dokumentation der Benutzertests.             |
 | ...  |       |           |              |
 
-✍️ Total: bspw. 26 Arbeitspakete
+Total: 12 Arbeitspakete
 
 <span style="background: azure">Ein Arbeitspaket sollte etwa 45' für eine Person in Anspruch nehmen. *Frist* bedeutet, wann das AP abgeschlossen sein muss; *Zuständig* bezeichnet die (haupt-)verantwortliche Person.</span>
 
