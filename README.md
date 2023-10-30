@@ -24,7 +24,8 @@
 | ---- | --------------- | ---- | ------------ |
 | 1    |  Muss               |  Funktional    |   Die Anwendung soll in der Lage sein, den Marchzins zu berechnen. Dies erfordert die Eingabe des Kauf- und Verkaufsdatums, des Kapitals und des Zinssatzes, die vom Benutzer erfragt werden.           |
 | 2  | Muss                |  Funktional    |   Das Programm soll in der Lage sein, Daten zur Entwicklung des Obligationenkurses über den Anlagezeitraum aus dem Internet zu beziehen. Wir müssen einen geeigneten Dienst auswählen und diesen über unser Programm ansprechen.           | 
-| 3   |  Optional               |  Qualität    |   Die Benutzeroberfläche der Anwendung sollte benutzerfreundlich und ansprechend gestaltet sein, um eine positive Benutzererfahrung zu gewährleisten.           |
+| 3    |  Muss               |  Funktional    |  Die aus dem Internet bezogenen Daten sollen in einer Datei gespeichert werden, um für zukünftige Verwendungen verfügbar zu sein.           |
+| 4   |  Optional               |  Qualität    |   Die Benutzeroberfläche der Anwendung sollte benutzerfreundlich und ansprechend gestaltet sein, um eine positive Benutzererfahrung zu gewährleisten.           |
 
 <span style="background: azure">Jede Anforderung hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand).</span>
 
