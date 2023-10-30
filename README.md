@@ -33,8 +33,11 @@
 
 | TC-№ | Vorbereitung (*given*) | Eingabe (*when*) | Erwartete Ausgabe (*then*) |
 | ---- | ---------------------- | ---------------- | -------------------------- |
-| 1.1  |                        |                  |                            |
-| ...  |                        |                  |                            |
+| 1.1  | Die Anwendung ist gestartet.                       |  Der Benutzer gibt das Kaufdatum, das Verkaufsdatum, das Kapital und den Zinssatz ein und bestätigt die Eingabe.                |  Die Anwendung berechnet den Marchzins und zeigt das Ergebnis auf dem Bildschirm an.                          |
+| 1.2  |  Die Anwendung ist gestartet.                      | Der Benutzer gibt ungültige Daten für die Berechnung des Marchzinses ein, z.B. ein Kaufdatum, das nach dem Verkaufsdatum liegt, und bestätigt die Eingabe.                 |  Die Anwendung zeigt eine Fehlermeldung an und verhindert die Berechnung des Marchzinses.                          |
+| 2.1  | Die Anwendung ist gestartet.                       |  Der Benutzer wählt die Option zur Internetabfrage aus. Die Anwendung stellt eine Verbindung zu einem Internetdienst her und zieht die Kursdaten.                | Die Anwendung zeigt die heruntergeladenen Daten auf dem Bildschirm an und speichert sie in einer Datei.                           |
+| 2.2  | Die Anwendung ist gestartet.                       |  Der Benutzer wählt die Option zur Internetabfrage aus. Die Anwendung kann keine Verbindung zum Internetdienst herstellen.                |  Die Anwendung zeigt eine Fehlermeldung an und speichert keine Daten.                          |
+| 3.1  | Die Anwendung ist gestartet.                       |  Die Anwendung verfügt bereits über zuvor abgerufene Kursdaten.                |  Der Benutzer wählt die Option zur Anzeige der gespeicherten Kursdaten aus.                          |
 
 <span style="background: azure">Jede Anforderung hat mindestens einen dazugehörigen Testfall. Der erste Testfall, der zur Anforderung mit der Nummer 1 gehört, hat die Nummer 1.1, der zweite Testfall, der zur Anforderung 1 gehört, die 1.2; der erste Testfall zur Anforderung 2 die 2.1 und so weiter. </span>
 
