@@ -9,7 +9,7 @@ Erjon Hulaj, Avenazer Melles, Seyon Demiroglu
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und erklären in *einem* griffigen Satz, was Sie an dem Tag erreicht haben. Diese Stelle gibt Ihnen und Ihrer Lehrperson eine einfache Möglichkeit, sich eine Übersicht über Ihr Projekt zu verschaffen. |
-|       | 0.0.2  |                                                              |
+|       | 0.0.2  |  Heute haben wir am Code gearbeitet der für Forms dann verwendet werden soll, wir haben auch den Code in Forms eingebaut, aber wir müssen das Design vielleicht ein bisschen anders machen.                                                            |
 |       | 0.0.3  |                                                              |
 
 ## 1 Informieren
@@ -77,7 +77,7 @@ Total: 12 Arbeitspakete
 
 | AP-№ | Datum | tatsächliche Zeit |
 | ---- | ----- | ----------------- |
-| 1.A  |       |                   |
+| 1.A  | 06.11.23      |  3 - 4 Stunden                 |
 | ...  |       |                   |
 
 <span style="background: azure">Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten. </span>
