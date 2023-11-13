@@ -49,14 +49,14 @@ In unserem Projekt entwickeln wir eine Anwendung zur Berechnung von unterjährig
 
 | AP-№ | Frist | Zuständig | Beschreibung |
 | ---- | ----- | --------- | ------------ |
-| 1.A  | 06.11.23      | Erjon Hulaj          | Anforderung 1: Erstellung der Benutzeroberfläche und ausseinandersetzung mit Forms (Design u.s.w) [Erjon] für die Eingabe von Kauf- und Verkaufsdatum, Kapital und Zinssatz (Code) [Seyon]. Code für Forms kästchen [Aven] Dokumentation [Erjon]             |
-| 1.B  | 10.11.23      | Avenazer Melles          | Anforderung 1: Implementierung der Marchzins-Berechnung basierend auf den Benutzereingaben, Durchführung von Tests.             |
-| 1.C  | 10.11.23      | Seyon Demiroglu          | Anforderung 1: Überprüfung und Validierung der Eingabedaten, um sicherzustellen, dass sie den Anforderungen entsprechen, Dokumentation der Validierung.             |
-| 2.A  | 13.11.23	      | Erjon Hulaj         | Anforderung 2: Recherche und Auswahl eines geeigneten Internetdienstes zur Kursdatenabfrage, Dokumentation der Auswahl.             |
-| 2.B  | 17.11.23      | Avenazer Melles          | Anforderung 2: Implementierung der Datenabruf-Funktionalität und Speicherung in einer Datei, Durchführung von Tests.             |
+| 1.A  | 06.11.23      | Erjon, Seyon, Aven         | Anforderung 1: Erstellung der Benutzeroberfläche und ausseinandersetzung mit Forms (Design u.s.w) [Erjon] für die Eingabe von Kauf- und Verkaufsdatum, Kapital und Zinssatz (Code) [Seyon]. Code für Forms kästchen [Aven] Dokumentation [Erjon]             |
+| 1.B  | 13.11.23      | Aven          | Anforderung 1: Code für Exceptions, weil konnten noch nicht alle Fehler abfangen.             |
+| 1.C  | 13.11.23      | Erjon         | Anforderung 1: Erlernen wie man Dateien speichert und das umsetzen. Design weiterarbeiten (Farben, Bilder)             |
+| 2.A  | 20.11.23	      | Erjon        | Anforderung 2: Recherche und Auswahl eines geeigneten Internetdienstes zur Kursdatenabfrage, Dokumentation der Auswahl.             |
+| 2.B  | 20.11.23      | Avenazer Melles          | Anforderung 2: Implementierung der Datenabruf-Funktionalität und Speicherung in einer Datei, Durchführung von Tests.             |
 | 2.C  | 20.11.23      | Seyon Demiroglu          | Anforderung 2: Fehlerbehandlung und Benutzerhinweise für den Internetdatenabruf, Dokumentation der Fehlerbehandlung.             |
-| 3.A  | 24.11.23      | Erjon Hulaj          | Anforderung 3: Implementierung der Anzeige von zuvor gespeicherten Kursdaten aus der Datei, Durchführung von Tests.             |
-| 3.B  | 24.11.23      | Avenazer Melles          | Anforderung 3: Benutzerfreundliche Präsentation der gespeicherten Kursdaten in der Anwendung, Dokumentation der Benutzeroberfläche.             |
+| 3.A  | 27.11.23      | Erjon Hulaj          | Anforderung 3: Implementierung der Anzeige von zuvor gespeicherten Kursdaten aus der Datei, Durchführung von Tests.             |
+| 3.B  | 27.11.23      | Avenazer Melles          | Anforderung 3: Benutzerfreundliche Präsentation der gespeicherten Kursdaten in der Anwendung, Dokumentation der Benutzeroberfläche.             |
 | 3.C  | 27.11.23      | Seyon Demiroglu          | Anforderung 3: Tests und Validierung der gespeicherten Datenwiedergabe, Dokumentation der Testergebnisse.             |
 | 4.A  | 27.11.23      | Erjon Hulaj          | Anforderung 4: Überarbeitung der Benutzeroberfläche, um sie benutzerfreundlicher und ansprechender zu gestalten, Dokumentation der Überarbeitung.             |
 | 4.B  | 01.12.23      | Avenazer Melles          | Anforderung 4: Implementierung von Verbesserungen in der Benutzeroberfläche basierend auf den Benutzeranforderungen, Durchführung von Tests.             |
