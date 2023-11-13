@@ -50,7 +50,7 @@ In unserem Projekt entwickeln wir eine Anwendung zur Berechnung von unterjährig
 | AP-№ | Frist | Zuständig | Beschreibung |
 | ---- | ----- | --------- | ------------ |
 | 1.A  | 06.11.23      | Erjon, Seyon, Aven         | Anforderung 1: Erstellung der Benutzeroberfläche und ausseinandersetzung mit Forms (Design u.s.w) [Erjon] für die Eingabe von Kauf- und Verkaufsdatum, Kapital und Zinssatz (Code) [Seyon]. Code für Forms kästchen [Aven] Dokumentation [Erjon]             |
-| 1.B  | 13.11.23      | Aven          | Anforderung 1: Code für Exceptions, weil konnten noch nicht alle Fehler abfangen.             |
+| 1.B  | 13.11.23      | Aven          | Anforderung 1: Code für Exceptions, weil wir konnten noch nicht alle Fehler abfangen.             |
 | 1.C  | 13.11.23      | Erjon         | Anforderung 1: Erlernen wie man Dateien speichert und das umsetzen. Design weiterarbeiten (Farben, Bilder)             |
 | 2.A  | 20.11.23	      | Erjon        | Anforderung 2: Recherche und Auswahl eines geeigneten Internetdienstes zur Kursdatenabfrage, Dokumentation der Auswahl.             |
 | 2.B  | 20.11.23      | Avenazer Melles          | Anforderung 2: Implementierung der Datenabruf-Funktionalität und Speicherung in einer Datei, Durchführung von Tests.             |
