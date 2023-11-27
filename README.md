@@ -56,7 +56,6 @@ In unserem Projekt entwickeln wir eine Anwendung zur Berechnung von unterjährig
 | 3.A  | 27.11.23      | Aven, Erjon          | Anforderung 3: API einbauen sodass es funktioniert             |
 | 4.A  | 06.11.23      | Aven, Erjon          | Anforderung 4: Überarbeitung der Benutzeroberfläche, um sie benutzerfreundlicher und ansprechender zu gestalten, Dokumentation der Überarbeitung.             |
 | 4.B  | 13.11.23      | Aven, Erjon          | Anforderung 4: Implementierung von Verbesserungen in der Benutzeroberfläche basierend auf den Benutzeranforderungen, Durchführung von Tests.             |
-| 4.C  | 01.12.23      | Aven, Erjon         | Anforderung 4: Durchführung von Benutzertests und Anpassungen an der Benutzeroberfläche, Dokumentation der Benutzertests.             |
 | ...  |       |           |              |
 
 Total: 12 Arbeitspakete
@@ -73,11 +72,15 @@ Total: 12 Arbeitspakete
 
 | AP-№ | Datum | tatsächliche Zeit |
 | ---- | ----- | ----------------- |
-| 1.A  | 06.11.23      |  3 - 4 Stunden                 |
+| 1.A  | 06.11.23      |  2 - 3 Stunden                 |
+| 4.A  | 06.11.23      |  1 Stunde                 |
 | 1.B  | 13.11.23      |  1 - 2 Stunden                 |
-| 1.C  | 13.11.23      |  1 - 2 Stunden                 |
-| 2.A  | 20.11.23      |                   |
-| ...  |       |                   |
+| 4.B  | 13.11.23      |  1 - 2 Stunden                 |
+| 2.A  | 20.11.23      |  1 - 2 Stunden                 |
+| 2.B  | 20.11.23      |  1 Stunde                 |
+| 2.C  | 27.11.23      |  1 Stunde                 |
+| 3.A  | 27.11.23      |  2 - 3 Stunden                 |
+
 
 
 <span style="background: azure">Tragen Sie jedes Mal, wenn Sie ein Arbeitspaket abschließen, hier ein, wie lang Sie effektiv dafür hatten. </span>
@@ -97,8 +100,10 @@ Total: 12 Arbeitspakete
 
 ✍️ Beschreiben Sie, was gut an Ihrem Projekt ging, und was Sie nächstes Mal anders machen würden.
 
+Wir haben am Anfang ziemlich schnell gearbeitet und sind gut vorangekommen, sodass wir jetzt früher fertig sind als gedacht. Wir haben immer wieder das Programm verfeinert und besser gemacht und jetzt läuft es so wie es soll.
+Wir sind zufrieden.
 
-Der Code
+## 7 Code
 
 ```csharp
 namespace Marchzins_Berechner
