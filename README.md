@@ -231,8 +231,6 @@ namespace Marchzins_Berechner
 
         }
 
-
-
         private async void api_Click(object sender, EventArgs e)
         {
             var client = new HttpClient();
@@ -253,16 +251,10 @@ namespace Marchzins_Berechner
                     response.EnsureSuccessStatusCode();
                     var body = await response.Content.ReadAsStringAsync();
 
-
-
-
-                   //MessageBox.Show(body);
                     int pos = body.IndexOf("rate_pct");
                     body = body.Substring(pos + 11, 4);
 
-
                     zinsSatz.Text = body;
-
                 }
 
             } catch 
