@@ -257,7 +257,9 @@ namespace Marchzins_Berechner
                     zinsSatz.Text = body;
                 }
 
-            } catch 
+            }
+
+            catch 
             {
                 MessageBox.Show("Error");
             }
