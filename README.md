@@ -258,7 +258,6 @@ namespace Marchzins_Berechner
                 }
 
             }
-
             catch 
             {
                 MessageBox.Show("Error");
